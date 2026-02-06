@@ -1,0 +1,26 @@
+{
+  "lastUpdated": "2026-02-06 02:55 UTC",
+  "games": [
+    {
+      "homeTeam": "St. John's",
+      "awayTeam": "UConn",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Scheduled - 7:00 PM ET"
+    },
+    {
+      "homeTeam": "Duke",
+      "awayTeam": "North Carolina",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Scheduled - 9:00 PM ET"
+    },
+    {
+      "homeTeam": "Kansas",
+      "awayTeam": "Baylor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Scheduled - 8:00 PM ET"
+    }
+  ]
+}

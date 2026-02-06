@@ -1,26 +1,19 @@
 {
-  "lastUpdated": "2026-02-06 02:55 UTC",
+  "lastUpdated": "2026-02-06 03:02 UTC",
   "games": [
     {
-      "homeTeam": "St. John's",
-      "awayTeam": "UConn",
+      "homeTeam": "Cincinnati",
+      "awayTeam": "West Virginia",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Scheduled - 7:00 PM ET"
+      "status": "7:00 PM ET - ESPN2"
     },
     {
-      "homeTeam": "Duke",
-      "awayTeam": "North Carolina",
+      "homeTeam": "Maryland",
+      "awayTeam": "Ohio State",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Scheduled - 9:00 PM ET"
-    },
-    {
-      "homeTeam": "Kansas",
-      "awayTeam": "Baylor",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Scheduled - 8:00 PM ET"
+      "status": "8:30 PM ET - FS1"
     }
   ]
 }

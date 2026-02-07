@@ -1,33 +1,533 @@
 {
-  "lastUpdated": "2026-02-06 03:20 UTC",
-  "games": [
-    {
-      "homeTeam": "Maryland",
-      "awayTeam": "Ohio State",
-      "homeScore": 42,
-      "awayScore": 52,
-      "status": "2nd Half - Live on FS1"
-    },
-    {
-      "homeTeam": "Michigan",
-      "awayTeam": "Penn State",
-      "homeScore": 110,
-      "awayScore": 69,
-      "status": "FINAL"
-    },
-    {
-      "homeTeam": "UAB",
-      "awayTeam": "Memphis",
-      "homeScore": 35,
-      "awayScore": 44,
-      "status": "Halftime - Live on ESPN2"
-    },
-    {
-      "homeTeam": "Cincinnati",
-      "awayTeam": "West Virginia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Saturday - 7:00 PM ET"
-    }
-  ]
+    "lastUpdated": "2026-02-07 18:31:27",
+    "games": [
+        {
+            "awayTeam": "Arkansas Razorbacks",
+            "awayScore": "66",
+            "homeTeam": "Mississippi State Bulldogs",
+            "homeScore": "49",
+            "status": "11:29 - 2nd Half",
+            "tv": "ESPN2"
+        },
+        {
+            "awayTeam": "Louisville Cardinals",
+            "awayScore": "63",
+            "homeTeam": "Wake Forest Demon Deacons",
+            "homeScore": "55",
+            "status": "11:35 - 2nd Half",
+            "tv": "ACC Network"
+        },
+        {
+            "awayTeam": "Wisconsin Badgers",
+            "awayScore": "46",
+            "homeTeam": "Indiana Hoosiers",
+            "homeScore": "57",
+            "status": "9:40 - 2nd Half",
+            "tv": "FOX"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "57",
+            "homeTeam": "Georgetown Hoyas",
+            "homeScore": "54",
+            "status": "11:28 - 2nd Half",
+            "tv": "TNT, truTV"
+        },
+        {
+            "awayTeam": "Virginia Tech Hokies",
+            "awayScore": "43",
+            "homeTeam": "NC State Wolfpack",
+            "homeScore": "54",
+            "status": "12:11 - 2nd Half",
+            "tv": "The CW Network"
+        },
+        {
+            "awayTeam": "East Tennessee State Buccaneers",
+            "awayScore": "30",
+            "homeTeam": "VMI Keydets",
+            "homeScore": "22",
+            "status": "6:49 - 1st Half",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Missouri Tigers",
+            "awayScore": "21",
+            "homeTeam": "South Carolina Gamecocks",
+            "homeScore": "12",
+            "status": "7:56 - 1st Half",
+            "tv": "SEC Network"
+        },
+        {
+            "awayTeam": "Middle Tennessee Blue Raiders",
+            "awayScore": "35",
+            "homeTeam": "Delaware Blue Hens",
+            "homeScore": "33",
+            "status": "4:30 - 1st Half",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Northern Illinois Huskies",
+            "awayScore": "0",
+            "homeTeam": "Georgia State Panthers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "George Washington Revolutionaries",
+            "awayScore": "0",
+            "homeTeam": "Duquesne Dukes",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "North Texas Mean Green",
+            "awayScore": "0",
+            "homeTeam": "UTSA Roadrunners",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Charleston Southern Buccaneers",
+            "awayScore": "0",
+            "homeTeam": "South Carolina Upstate Spartans",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Butler Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Marquette Golden Eagles",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "FS1"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "0",
+            "homeTeam": "Pittsburgh Panthers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "The CW Network"
+        },
+        {
+            "awayTeam": "Cleveland State Vikings",
+            "awayScore": "0",
+            "homeTeam": "IU Indianapolis Jaguars",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Campbell Fighting Camels",
+            "awayScore": "0",
+            "homeTeam": "North Carolina A&T Aggies",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "FloSports"
+        },
+        {
+            "awayTeam": "Ole Miss Rebels",
+            "awayScore": "0",
+            "homeTeam": "Texas Longhorns",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN2"
+        },
+        {
+            "awayTeam": "Jacksonville Dolphins",
+            "awayScore": "0",
+            "homeTeam": "West Georgia Wolves",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Florida Gulf Coast Eagles",
+            "awayScore": "0",
+            "homeTeam": "Bellarmine Knights",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Missouri State Bears",
+            "awayScore": "0",
+            "homeTeam": "Liberty Flames",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 2:00 PM EST",
+            "tv": "CBSSN"
+        },
+        {
+            "awayTeam": "Western Michigan Broncos",
+            "awayScore": "0",
+            "homeTeam": "Texas State Bobcats",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 3:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Bowling Green Falcons",
+            "awayScore": "0",
+            "homeTeam": "Arkansas State Red Wolves",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 3:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Florida International Panthers",
+            "awayScore": "0",
+            "homeTeam": "Western Kentucky Hilltoppers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 3:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Sam Houston Bearkats",
+            "awayScore": "0",
+            "homeTeam": "Louisiana Tech Bulldogs",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 3:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Buffalo Bulls",
+            "awayScore": "0",
+            "homeTeam": "South Alabama Jaguars",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Toledo Rockets",
+            "awayScore": "0",
+            "homeTeam": "James Madison Dukes",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "0",
+            "homeTeam": "Notre Dame Fighting Irish",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "The CW Network"
+        },
+        {
+            "awayTeam": "Texas A&M-Corpus Christi Islanders",
+            "awayScore": "0",
+            "homeTeam": "Nicholls Colonels",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Alabama Crimson Tide",
+            "awayScore": "0",
+            "homeTeam": "Auburn Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "ESPN2"
+        },
+        {
+            "awayTeam": "North Florida Ospreys",
+            "awayScore": "0",
+            "homeTeam": "Queens University Royals",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Eastern Illinois Panthers",
+            "awayScore": "0",
+            "homeTeam": "Tennessee Tech Golden Eagles",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "South Carolina State Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Howard Bison",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:30 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "North Carolina Central Eagles",
+            "awayScore": "0",
+            "homeTeam": "Norfolk State Spartans",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:30 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Grand Canyon Lopes",
+            "awayScore": "0",
+            "homeTeam": "UNLV Rebels",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:30 PM EST",
+            "tv": "FOX"
+        },
+        {
+            "awayTeam": "Houston Christian Huskies",
+            "awayScore": "0",
+            "homeTeam": "SE Louisiana Lions",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:30 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Western Illinois Leathernecks",
+            "awayScore": "0",
+            "homeTeam": "Tennessee State Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:30 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Southern Indiana Screaming Eagles",
+            "awayScore": "0",
+            "homeTeam": "Southeast Missouri State Redhawks",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 4:45 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Alabama State Hornets",
+            "awayScore": "0",
+            "homeTeam": "Grambling Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 5:00 PM EST",
+            "tv": "N/A"
+        },
+        {
+            "awayTeam": "Milwaukee Panthers",
+            "awayScore": "0",
+            "homeTeam": "Northern Kentucky Norse",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 5:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Stetson Hatters",
+            "awayScore": "0",
+            "homeTeam": "Eastern Kentucky Colonels",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 5:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "North Alabama Lions",
+            "awayScore": "0",
+            "homeTeam": "Austin Peay Governors",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 5:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Central Arkansas Bears",
+            "awayScore": "0",
+            "homeTeam": "Lipscomb Bisons",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 5:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Texas Southern Tigers",
+            "awayScore": "0",
+            "homeTeam": "Florida A&M Rattlers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "N/A"
+        },
+        {
+            "awayTeam": "Santa Clara Broncos",
+            "awayScore": "0",
+            "homeTeam": "Washington State Cougars",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Jackson State Tigers",
+            "awayScore": "0",
+            "homeTeam": "Mississippi Valley State Delta Devils",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "N/A"
+        },
+        {
+            "awayTeam": "Alabama A&M Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Southern Jaguars",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "N/A"
+        },
+        {
+            "awayTeam": "Seton Hall Pirates",
+            "awayScore": "0",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "Peacock"
+        },
+        {
+            "awayTeam": "Northwestern State Demons",
+            "awayScore": "0",
+            "homeTeam": "East Texas A&M Lions",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Northern Colorado Bears",
+            "awayScore": "0",
+            "homeTeam": "Idaho State Bengals",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Georgia Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "LSU Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:00 PM EST",
+            "tv": "SEC Network"
+        },
+        {
+            "awayTeam": "Duke Blue Devils",
+            "awayScore": "0",
+            "homeTeam": "North Carolina Tar Heels",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:30 PM EST",
+            "tv": "ESPN"
+        },
+        {
+            "awayTeam": "Alcorn State Braves",
+            "awayScore": "0",
+            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 6:30 PM EST",
+            "tv": "N/A"
+        },
+        {
+            "awayTeam": "Illinois Fighting Illini",
+            "awayScore": "0",
+            "homeTeam": "Michigan State Spartans",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:00 PM EST",
+            "tv": "FOX"
+        },
+        {
+            "awayTeam": "Clemson Tigers",
+            "awayScore": "0",
+            "homeTeam": "California Golden Bears",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:00 PM EST",
+            "tv": "ACC Network"
+        },
+        {
+            "awayTeam": "Utah State Aggies",
+            "awayScore": "0",
+            "homeTeam": "Wyoming Cowboys",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:00 PM EST",
+            "tv": "CBSSN"
+        },
+        {
+            "awayTeam": "Georgia Tech Yellow Jackets",
+            "awayScore": "0",
+            "homeTeam": "Stanford Cardinal",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:00 PM EST",
+            "tv": "ESPNU"
+        },
+        {
+            "awayTeam": "Eastern Washington Eagles",
+            "awayScore": "0",
+            "homeTeam": "Montana State Bobcats",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Abilene Christian Wildcats",
+            "awayScore": "0",
+            "homeTeam": "California Baptist Lancers",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Florida Gators",
+            "awayScore": "0",
+            "homeTeam": "Texas A&M Aggies",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:30 PM EST",
+            "tv": "SEC Network"
+        },
+        {
+            "awayTeam": "Tennessee Volunteers",
+            "awayScore": "0",
+            "homeTeam": "Kentucky Wildcats",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 8:30 PM EST",
+            "tv": "ESPN"
+        },
+        {
+            "awayTeam": "San Jos\u00e9 State Spartans",
+            "awayScore": "0",
+            "homeTeam": "Colorado State Rams",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 9:00 PM EST",
+            "tv": "MWN"
+        },
+        {
+            "awayTeam": "New Mexico State Aggies",
+            "awayScore": "0",
+            "homeTeam": "UTEP Miners",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 9:00 PM EST",
+            "tv": "ESPN+"
+        },
+        {
+            "awayTeam": "Arizona State Sun Devils",
+            "awayScore": "0",
+            "homeTeam": "Colorado Buffaloes",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 9:30 PM EST",
+            "tv": "ESPN2"
+        },
+        {
+            "awayTeam": "Washington Huskies",
+            "awayScore": "0",
+            "homeTeam": "UCLA Bruins",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 10:00 PM EST",
+            "tv": "FS1"
+        },
+        {
+            "awayTeam": "Boise State Broncos",
+            "awayScore": "0",
+            "homeTeam": "New Mexico Lobos",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 10:00 PM EST",
+            "tv": "CBSSN"
+        },
+        {
+            "awayTeam": "Houston Cougars",
+            "awayScore": "0",
+            "homeTeam": "BYU Cougars",
+            "homeScore": "0",
+            "status": "Sat, February 7th at 10:30 PM EST",
+            "tv": "ESPN"
+        }
+    ]
 }

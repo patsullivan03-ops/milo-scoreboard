@@ -1,16 +1,16 @@
 # 🏀 Milo's NCAAB Scoreboard
-*Updated: 2026-02-07 18:25:13 UTC*
+*Updated: 2026-02-07 18:31:27*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Arkansas Razorbacks @ Mississippi State Bulldogs | 63 - 47 | 11:59 - 2nd Half | ESPN2 |
-| Louisville Cardinals @ Wake Forest Demon Deacons | 58 - 49 | 12:55 - 2nd Half | ACC Network |
-| Wisconsin Badgers @ Indiana Hoosiers | 46 - 56 | 10:34 - 2nd Half | FOX |
-| Villanova Wildcats @ Georgetown Hoyas | 52 - 52 | 13:11 - 2nd Half | TNT, truTV |
-| Virginia Tech Hokies @ NC State Wolfpack | 35 - 47 | 15:33 - 2nd Half | The CW Network |
-| East Tennessee State Buccaneers @ VMI Keydets | 28 - 17 | 8:33 - 1st Half | ESPN+ |
-| Missouri Tigers @ South Carolina Gamecocks | 21 - 8 | 10:24 - 1st Half | SEC Network |
-| Middle Tennessee Blue Raiders @ Delaware Blue Hens | 25 - 29 | 7:37 - 1st Half | ESPN+ |
+| Arkansas Razorbacks @ Mississippi State Bulldogs | 66 - 49 | 11:29 - 2nd Half | ESPN2 |
+| Louisville Cardinals @ Wake Forest Demon Deacons | 63 - 55 | 11:35 - 2nd Half | ACC Network |
+| Wisconsin Badgers @ Indiana Hoosiers | 46 - 57 | 9:40 - 2nd Half | FOX |
+| Villanova Wildcats @ Georgetown Hoyas | 57 - 54 | 11:28 - 2nd Half | TNT, truTV |
+| Virginia Tech Hokies @ NC State Wolfpack | 43 - 54 | 12:11 - 2nd Half | The CW Network |
+| East Tennessee State Buccaneers @ VMI Keydets | 30 - 22 | 6:49 - 1st Half | ESPN+ |
+| Missouri Tigers @ South Carolina Gamecocks | 21 - 12 | 7:56 - 1st Half | SEC Network |
+| Middle Tennessee Blue Raiders @ Delaware Blue Hens | 35 - 33 | 4:30 - 1st Half | ESPN+ |
 | Northern Illinois Huskies @ Georgia State Panthers | 0 - 0 | Sat, February 7th at 2:00 PM EST | ESPN+ |
 | George Washington Revolutionaries @ Duquesne Dukes | 0 - 0 | Sat, February 7th at 2:00 PM EST | ESPN+ |
 | North Texas Mean Green @ UTSA Roadrunners | 0 - 0 | Sat, February 7th at 2:00 PM EST | ESPN+ |

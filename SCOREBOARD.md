@@ -1,16 +1,16 @@
 # 🏀 Milo's NCAAB Scoreboard
-*Updated: 2026-02-07 18:31:27*
+*Updated: 2026-02-07 18:37:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Arkansas Razorbacks @ Mississippi State Bulldogs | 66 - 49 | 11:29 - 2nd Half | ESPN2 |
-| Louisville Cardinals @ Wake Forest Demon Deacons | 63 - 55 | 11:35 - 2nd Half | ACC Network |
-| Wisconsin Badgers @ Indiana Hoosiers | 46 - 57 | 9:40 - 2nd Half | FOX |
-| Villanova Wildcats @ Georgetown Hoyas | 57 - 54 | 11:28 - 2nd Half | TNT, truTV |
-| Virginia Tech Hokies @ NC State Wolfpack | 43 - 54 | 12:11 - 2nd Half | The CW Network |
-| East Tennessee State Buccaneers @ VMI Keydets | 30 - 22 | 6:49 - 1st Half | ESPN+ |
-| Missouri Tigers @ South Carolina Gamecocks | 21 - 12 | 7:56 - 1st Half | SEC Network |
-| Middle Tennessee Blue Raiders @ Delaware Blue Hens | 35 - 33 | 4:30 - 1st Half | ESPN+ |
+| Missouri Tigers @ South Carolina Gamecocks | 24 - 19 | 4:20 - 1st Half | SEC Network |
+| Villanova Wildcats @ Georgetown Hoyas | 61 - 56 | 9:40 - 2nd Half | TNT, truTV |
+| Middle Tennessee Blue Raiders @ Delaware Blue Hens | 41 - 33 | 2:12 - 1st Half | ESPN+ |
+| Virginia Tech Hokies @ NC State Wolfpack | 52 - 57 | 10:34 - 2nd Half | The CW Network |
+| Wisconsin Badgers @ Indiana Hoosiers | 52 - 59 | 7:24 - 2nd Half | FOX |
+| #24 Louisville Cardinals @ Wake Forest Demon Deacons | 68 - 59 | 10:22 - 2nd Half | ACC Network |
+| East Tennessee State Buccaneers @ VMI Keydets | 33 - 22 | 4:16 - 1st Half | ESPN+ |
+| #21 Arkansas Razorbacks @ Mississippi State Bulldogs | 72 - 57 | 7:00 - 2nd Half | ESPN2 |
 | Northern Illinois Huskies @ Georgia State Panthers | 0 - 0 | Sat, February 7th at 2:00 PM EST | ESPN+ |
 | George Washington Revolutionaries @ Duquesne Dukes | 0 - 0 | Sat, February 7th at 2:00 PM EST | ESPN+ |
 | North Texas Mean Green @ UTSA Roadrunners | 0 - 0 | Sat, February 7th at 2:00 PM EST | ESPN+ |
@@ -53,19 +53,19 @@
 | Northwestern State Demons @ East Texas A&M Lions | 0 - 0 | Sat, February 7th at 6:00 PM EST | ESPN+ |
 | Northern Colorado Bears @ Idaho State Bengals | 0 - 0 | Sat, February 7th at 6:00 PM EST | ESPN+ |
 | Georgia Bulldogs @ LSU Tigers | 0 - 0 | Sat, February 7th at 6:00 PM EST | SEC Network |
-| Duke Blue Devils @ North Carolina Tar Heels | 0 - 0 | Sat, February 7th at 6:30 PM EST | ESPN |
+| #4 Duke Blue Devils @ #14 North Carolina Tar Heels | 0 - 0 | Sat, February 7th at 6:30 PM EST | ESPN |
 | Alcorn State Braves @ Arkansas-Pine Bluff Golden Lions | 0 - 0 | Sat, February 7th at 6:30 PM EST | N/A |
-| Illinois Fighting Illini @ Michigan State Spartans | 0 - 0 | Sat, February 7th at 8:00 PM EST | FOX |
-| Clemson Tigers @ California Golden Bears | 0 - 0 | Sat, February 7th at 8:00 PM EST | ACC Network |
+| #5 Illinois Fighting Illini @ #10 Michigan State Spartans | 0 - 0 | Sat, February 7th at 8:00 PM EST | FOX |
+| #20 Clemson Tigers @ California Golden Bears | 0 - 0 | Sat, February 7th at 8:00 PM EST | ACC Network |
 | Utah State Aggies @ Wyoming Cowboys | 0 - 0 | Sat, February 7th at 8:00 PM EST | CBSSN |
 | Georgia Tech Yellow Jackets @ Stanford Cardinal | 0 - 0 | Sat, February 7th at 8:00 PM EST | ESPNU |
 | Eastern Washington Eagles @ Montana State Bobcats | 0 - 0 | Sat, February 7th at 8:00 PM EST | ESPN+ |
 | Abilene Christian Wildcats @ California Baptist Lancers | 0 - 0 | Sat, February 7th at 8:00 PM EST | ESPN+ |
-| Florida Gators @ Texas A&M Aggies | 0 - 0 | Sat, February 7th at 8:30 PM EST | SEC Network |
-| Tennessee Volunteers @ Kentucky Wildcats | 0 - 0 | Sat, February 7th at 8:30 PM EST | ESPN |
+| #17 Florida Gators @ Texas A&M Aggies | 0 - 0 | Sat, February 7th at 8:30 PM EST | SEC Network |
+| #25 Tennessee Volunteers @ Kentucky Wildcats | 0 - 0 | Sat, February 7th at 8:30 PM EST | ESPN |
 | San José State Spartans @ Colorado State Rams | 0 - 0 | Sat, February 7th at 9:00 PM EST | MWN |
 | New Mexico State Aggies @ UTEP Miners | 0 - 0 | Sat, February 7th at 9:00 PM EST | ESPN+ |
 | Arizona State Sun Devils @ Colorado Buffaloes | 0 - 0 | Sat, February 7th at 9:30 PM EST | ESPN2 |
 | Washington Huskies @ UCLA Bruins | 0 - 0 | Sat, February 7th at 10:00 PM EST | FS1 |
 | Boise State Broncos @ New Mexico Lobos | 0 - 0 | Sat, February 7th at 10:00 PM EST | CBSSN |
-| Houston Cougars @ BYU Cougars | 0 - 0 | Sat, February 7th at 10:30 PM EST | ESPN |
+| #8 Houston Cougars @ #16 BYU Cougars | 0 - 0 | Sat, February 7th at 10:30 PM EST | ESPN |
